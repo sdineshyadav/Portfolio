@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#07111f"/>
+  <circle cx="1040" cy="110" r="300" fill="#102744"/>
+  <circle cx="1040" cy="110" r="215" fill="#0d1b2d"/>
+  <rect x="110" y="175" width="108" height="108" rx="25" fill="#102139" stroke="#31557c"/>
+  <text x="164" y="245" fill="#75adff" font-family="Arial, sans-serif" font-size="36" text-anchor="middle">SD</text>
+  <text x="110" y="385" fill="#f5f7fb" font-family="Arial, sans-serif" font-size="64" font-weight="700">Sathu Dinesh</text>
+  <text x="110" y="455" fill="#a9b8cc" font-family="Arial, sans-serif" font-size="34">Frontend Developer</text>
+  <text x="110" y="520" fill="#75adff" font-family="Arial, sans-serif" font-size="22">Building polished, responsive web experiences</text>
+</svg>
